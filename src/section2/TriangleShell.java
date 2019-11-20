@@ -5,13 +5,13 @@ import org.jointheleague.graphical.robot.Robot;
 public class TriangleShell {
 
 	// 1. Create a new Robot
-
+Robot sans = new Robot();
 	
 	void go() {
 		drawTriangle(100); // 3. delete this line (used only for testing)
 
 		// 6. Make the robot go as fast as possible
-
+sans.setSpeed(1000);
 		// 4. make a variable to hold the length of the triangle and set it to 50
 
 		// 7. Use a for loop to repeat steps #9 to #10, 60 times
