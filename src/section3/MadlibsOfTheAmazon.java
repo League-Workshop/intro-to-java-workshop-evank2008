@@ -13,7 +13,7 @@ public class MadlibsOfTheAmazon {
 		String verb = JOptionPane.showInputDialog("Name a verb.");
 		String place = JOptionPane.showInputDialog("Name a place.");
 		
-		JOptionPane.showMessageDialog(null, " Piranhas are more " + adj + " during the day, so cross the river at night. Piranhas are attracted to fresh " + liquid + " and will most likely take a bite out of your "+ body + " if you " + verb + ". Whatever you do, if you have an open wound, try to find another way to get back to the " + place + ". Good luck!");
+		JOptionPane.showMessageDialog(null, " Piranhas are more " + adj + " during the day, so cross the river at night. Piranhas are attracted to fresh " + liquid + " and will most likely take a bite out of your "+ body + " if you " + verb + ". Whatever you do, if you have an open wound, try to find another way to get back to " + place + ". Good luck!");
 		
 		
 		
