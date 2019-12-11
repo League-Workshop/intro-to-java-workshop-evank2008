@@ -74,8 +74,8 @@ public class DragonFight {
 			}
 			else if(attack.equals("supersecretcheatcode")) {
 				
-				dragonh-=100000000;
-				JOptionPane.showMessageDialog(null, "You poked the dragon's ear. It commited suicide");
+				pattack=100000000;
+				JOptionPane.showMessageDialog(null, "You ate the dragon's bran muffin. It commited suicide");
 			}
 			
 		}
